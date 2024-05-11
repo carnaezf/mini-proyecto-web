@@ -4,10 +4,11 @@ mini proyecto web
 
 Tecnologias
 
-html
+html LISTO
 css
 bootstrap
+js
 
 control de versiones 
-Repositorio local *Git
-Repositorio Remoto *GitHub
+Repositorio local *Git LISTO
+Repositorio Remoto *GitHub LISTO
